@@ -4,7 +4,3 @@
 5. method overloading & constraction--
 6. single inhertance , multilevel inheritance--
 /////////////////////////
-
-1.interface
-2.while,do
-3.switch
